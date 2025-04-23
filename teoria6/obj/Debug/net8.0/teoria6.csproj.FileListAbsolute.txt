@@ -1,0 +1,14 @@
+/home/alumnos/proyectosDotnet2/teoria6/bin/Debug/net8.0/teoria6
+/home/alumnos/proyectosDotnet2/teoria6/bin/Debug/net8.0/teoria6.deps.json
+/home/alumnos/proyectosDotnet2/teoria6/bin/Debug/net8.0/teoria6.runtimeconfig.json
+/home/alumnos/proyectosDotnet2/teoria6/bin/Debug/net8.0/teoria6.dll
+/home/alumnos/proyectosDotnet2/teoria6/bin/Debug/net8.0/teoria6.pdb
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.AssemblyInfoInputs.cache
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.AssemblyInfo.cs
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.csproj.CoreCompileInputs.cache
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.dll
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/refint/teoria6.dll
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.pdb
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/teoria6.genruntimeconfig.cache
+/home/alumnos/proyectosDotnet2/teoria6/obj/Debug/net8.0/ref/teoria6.dll
